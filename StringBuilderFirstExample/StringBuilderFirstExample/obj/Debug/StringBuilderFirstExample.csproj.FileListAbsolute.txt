@@ -1,0 +1,6 @@
+c:\users\solrac\documents\visual studio 2012\Projects\StringBuilderFirstExample\StringBuilderFirstExample\bin\Debug\StringBuilderFirstExample.exe.config
+c:\users\solrac\documents\visual studio 2012\Projects\StringBuilderFirstExample\StringBuilderFirstExample\bin\Debug\StringBuilderFirstExample.exe
+c:\users\solrac\documents\visual studio 2012\Projects\StringBuilderFirstExample\StringBuilderFirstExample\bin\Debug\StringBuilderFirstExample.pdb
+c:\users\solrac\documents\visual studio 2012\Projects\StringBuilderFirstExample\StringBuilderFirstExample\obj\Debug\StringBuilderFirstExample.csprojResolveAssemblyReference.cache
+c:\users\solrac\documents\visual studio 2012\Projects\StringBuilderFirstExample\StringBuilderFirstExample\obj\Debug\StringBuilderFirstExample.exe
+c:\users\solrac\documents\visual studio 2012\Projects\StringBuilderFirstExample\StringBuilderFirstExample\obj\Debug\StringBuilderFirstExample.pdb

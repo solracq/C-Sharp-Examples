@@ -1,0 +1,6 @@
+c:\users\solrac\documents\visual studio 2012\Projects\ConsoleHelloWorld\ConsoleHelloWorld\bin\Debug\ConsoleHelloWorld.exe.config
+c:\users\solrac\documents\visual studio 2012\Projects\ConsoleHelloWorld\ConsoleHelloWorld\bin\Debug\ConsoleHelloWorld.exe
+c:\users\solrac\documents\visual studio 2012\Projects\ConsoleHelloWorld\ConsoleHelloWorld\bin\Debug\ConsoleHelloWorld.pdb
+c:\users\solrac\documents\visual studio 2012\Projects\ConsoleHelloWorld\ConsoleHelloWorld\obj\Debug\ConsoleHelloWorld.exe
+c:\users\solrac\documents\visual studio 2012\Projects\ConsoleHelloWorld\ConsoleHelloWorld\obj\Debug\ConsoleHelloWorld.pdb
+C:\Users\Solrac\documents\visual studio 2012\Projects\ConsoleHelloWorld\ConsoleHelloWorld\obj\Debug\ConsoleHelloWorld.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+c:\users\solrac\documents\visual studio 2012\Projects\Contact\Contact\bin\Debug\Contact.exe.config
+c:\users\solrac\documents\visual studio 2012\Projects\Contact\Contact\obj\Debug\Contact.csprojResolveAssemblyReference.cache
+c:\users\solrac\documents\visual studio 2012\Projects\Contact\Contact\bin\Debug\Contact.exe
+c:\users\solrac\documents\visual studio 2012\Projects\Contact\Contact\bin\Debug\Contact.pdb
+c:\users\solrac\documents\visual studio 2012\Projects\Contact\Contact\obj\Debug\Contact.exe
+c:\users\solrac\documents\visual studio 2012\Projects\Contact\Contact\obj\Debug\Contact.pdb

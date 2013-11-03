@@ -1,0 +1,3 @@
+﻿1>------ Build started: Project: ClassesObjects, Configuration: Release Any CPU ------
+1>  ClassesObjects -> C:\Users\Solrac\documents\visual studio 2012\Projects\ClassesObjects\ClassesObjects\bin\Release\ClassesObjects.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========

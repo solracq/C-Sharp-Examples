@@ -1,0 +1,6 @@
+C:\Users\Solrac\documents\visual studio 2012\Projects\ClassesObjects\ClassesObjects\bin\Release\ClassesObjects.exe.config
+C:\Users\Solrac\documents\visual studio 2012\Projects\ClassesObjects\ClassesObjects\bin\Release\ClassesObjects.exe
+C:\Users\Solrac\documents\visual studio 2012\Projects\ClassesObjects\ClassesObjects\bin\Release\ClassesObjects.pdb
+C:\Users\Solrac\documents\visual studio 2012\Projects\ClassesObjects\ClassesObjects\obj\Release\ClassesObjects.csprojResolveAssemblyReference.cache
+C:\Users\Solrac\documents\visual studio 2012\Projects\ClassesObjects\ClassesObjects\obj\Release\ClassesObjects.exe
+C:\Users\Solrac\documents\visual studio 2012\Projects\ClassesObjects\ClassesObjects\obj\Release\ClassesObjects.pdb

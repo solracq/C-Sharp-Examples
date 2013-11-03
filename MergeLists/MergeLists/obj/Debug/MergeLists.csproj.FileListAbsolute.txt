@@ -1,0 +1,6 @@
+c:\users\solrac\documents\visual studio 2012\Projects\MergeLists\MergeLists\bin\Debug\MergeLists.exe.config
+c:\users\solrac\documents\visual studio 2012\Projects\MergeLists\MergeLists\bin\Debug\MergeLists.exe
+c:\users\solrac\documents\visual studio 2012\Projects\MergeLists\MergeLists\bin\Debug\MergeLists.pdb
+c:\users\solrac\documents\visual studio 2012\Projects\MergeLists\MergeLists\obj\Debug\MergeLists.csprojResolveAssemblyReference.cache
+c:\users\solrac\documents\visual studio 2012\Projects\MergeLists\MergeLists\obj\Debug\MergeLists.exe
+c:\users\solrac\documents\visual studio 2012\Projects\MergeLists\MergeLists\obj\Debug\MergeLists.pdb

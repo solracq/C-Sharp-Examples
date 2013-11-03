@@ -1,0 +1,5 @@
+C:\Users\Solrac\documents\visual studio 2012\Projects\ConsoleHelloWorld\ConsoleHelloWorld\bin\Release\ConsoleHelloWorld.exe.config
+C:\Users\Solrac\documents\visual studio 2012\Projects\ConsoleHelloWorld\ConsoleHelloWorld\bin\Release\ConsoleHelloWorld.exe
+C:\Users\Solrac\documents\visual studio 2012\Projects\ConsoleHelloWorld\ConsoleHelloWorld\bin\Release\ConsoleHelloWorld.pdb
+C:\Users\Solrac\documents\visual studio 2012\Projects\ConsoleHelloWorld\ConsoleHelloWorld\obj\Release\ConsoleHelloWorld.exe
+C:\Users\Solrac\documents\visual studio 2012\Projects\ConsoleHelloWorld\ConsoleHelloWorld\obj\Release\ConsoleHelloWorld.pdb
